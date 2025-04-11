@@ -5,7 +5,7 @@ public class HelloWorld
 
 	public static void main(String[] args) 
 	{
-          System.out.println("안녕 Hello World!!!!~~");
+          System.out.println("안녕 Hello World!!!!!~~");
 	}
 
 }
